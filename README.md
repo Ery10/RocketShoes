@@ -8,7 +8,7 @@
 Desafio idealizado no discover da Rocketseat, fazendo um site para tênis.
 
 
-[🔗 Clique aqui para acessar o desafio realizado](https://ery10.github.io/Login-Form/)
+[🔗 Clique aqui para acessar o desafio realizado](https://ery10.github.io/RocketShoes/)
 
 ## 🛠 Tecnologias
 
